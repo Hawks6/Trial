@@ -1,10 +1,6 @@
-Here’s the `README.md` content for your project:
+# RFP Document Processing 
 
----
-
-# RFP Document Processing with Gemini GenAI
-
-This project automates the extraction and structuring of key information from RFP (Request for Proposal) documents using the Gemini GenAI large language model. The script supports both **PDF** and **HTML** file formats.
+This project automates the extraction and structuring of key information based on the provided fields in the assignment from RFP (Request for Proposal) documents using the Gemini GenAI large language model. The script supports both **PDF** and **HTML** file formats.
 
 ## Features:
 - **Automated Text Extraction**: Extracts text content from uploaded PDF or HTML files.
@@ -49,22 +45,3 @@ This project automates the extraction and structuring of key information from RF
 - A valid RFP file in either **PDF** or **HTML** format.
 
 ---
-
-### Example JSON Output:
-```json
-{
-  "Fields": {
-    "Bid Number": "12345",
-    "Title": "RFP for New IT Infrastructure",
-    "Due Date": "2024-12-31",
-    "Bid Submission Type": "Online",
-    ...
-  }
-}
-```
-
-Feel free to run the notebook and modify it as needed! If you encounter any issues, ensure all dependencies are installed and the file format is correct.
-
---- 
-
-Let me know if you need additional details!
