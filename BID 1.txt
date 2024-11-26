@@ -1,0 +1,212 @@
+BID 1:
+
+File name: Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf
+
+Enter the path to the RFP file (PDF or HTML): /Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf
+Raw response from Gemini API: {
+  "Fields": {
+    "Bid Number": "JA-207652",
+    "Title": "Student and Staff Computing Devices",
+    "Due Date": "July 9, 2024 at 2:00 PM CST",
+    "Bid Submission Type": null,
+    "Term of Bid": null,
+    "Pre Bid Meeting": null,
+    "Installation": null,
+    "Bid Bond Requirement": null,
+    "Delivery Date": null,
+    "Payment Terms": null,
+    "Any Additional Documentation Required": "A signed copy of this addendum.",
+    "MFG for Registration": null,
+    "Contract or Cooperative to use": null,
+    "Model_no": null,
+    "Part_no": null,
+    "Product": "Computing Devices",
+    "Contact Info": null,
+    "Company Name": null,
+    "Bid Summary": null,
+    "Product Specification": null
+  }
+}
+
+File name:JA-207652 Student and Staff Computing Devices FINAL.pdf
+
+
+Enter the path to the RFP file (PDF or HTML): /JA-207652 Student and Staff Computing Devices FINAL.pdf
+Raw response from Gemini API: ```json
+{
+  "Fields": {
+    "Bid Number": "168884",
+    "Title": "JA-207652 Student and Staff Computing Devices",
+    "Due Date": "27-JUN-2024 14:00:00",
+    "Bid Submission Type": "Online via iSupplier portal or manual submission",
+    "Term of Bid": "Three (3) year agreement with two (2) successive one (1) year extensions, not to exceed five (5) years total.",
+    "Pre Bid Meeting": "10-JUN-2024 14:00:00 via TEAMS video conference",
+    "Installation": "All deliveries and deployments must incorporate white glove services, which include asset decaling, asset reporting, etching, and delivery to varied locations.",
+    "Bid Bond Requirement": null,
+    "Delivery Date": null,
+    "Payment Terms": null,
+    "Any Additional Documentation Required": "MWBE Forms, W9 Form, Punch Out Process (optional)",
+    "MFG for Registration": null,
+    "Contract or Cooperative to use": "Educational Purchasing Cooperative of North Texas (EPCNT), Central Texas Purchasing Alliance (CTPA)",
+    "Model_no": null,
+    "Part_no": null,
+    "Product": "Student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+    "Contact Info": "Buyer ALZATE, JASMINE Email JALZATE@dallasisd.org (972)925-4100",
+    "Company Name": null,
+    "Bid Summary": "Dallas ISD is soliciting offers for student and staff computing devices.  Vendors can submit proposals for one, several, or all categories. The District reserves the right to award contracts to a single vendor or multiple vendors.  Significant quantities of devices and accessories are required.  Awarded vendors must provide white-glove deployment services, meet industry standard specifications, and maintain adequate stock of replacement parts.  Competitive quotes will be sought from awarded vendors for each purchase.",
+    "Product Specification": {
+      "Student Devices": {
+        "Tier 1 Small Student Chromebook Laptop": {
+          "Processor": "Intel Celeron Processor N100 or equivalent",
+          "Display": "Minimum 11.6\" diagonal, Multi-touch",
+          "Camera": "720p minimum",
+          "Resolution": "1366 x 768",
+          "Memory": "Minimum 8GB DDR5 Memory",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Power Supply": "Type C, 65W",
+          "Battery Life": "Minimum 10 hours",
+          "Ports": "Minimum 2 USB 3.0; type C; 1 headphone/microphone combo",
+          "Storage": "64 GB eMMC",
+          "OS": "Chrome O/S License Required",
+          "Warranty": "1-year minimum"
+        },
+        "Tier 2 Large Student Chromebook Laptop": {
+          "Processor": "Intel Celeron Processor N100 or equivalent",
+          "Display": "Minimum 14\" diagonal Non-Touch",
+          "Camera": "720p minimum",
+          "Resolution": "1920-1080",
+          "Memory": "Minimum 8GB DDR5 Memory",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Power Supply": "Type C, 65W",
+          "Battery Life": "Minimum 10 Hours",
+          "Ports": "Minimum 2 USB 3.0; 1 Type C; 65HDMI; 1 headphone/microphone combo",
+          "Storage": "128 GB eMMC",
+          "OS": "Chrome O/S License Required",
+          "Warranty": "1-year minimum"
+        },
+        "Tier 3 Student Windows Laptop": {
+          "Processor": "Intel i5 13th Gen or equivalent",
+          "Display": "Minimum 13\" diagonal, Non-Touch",
+          "Camera": "720p minimum",
+          "Resolution": "1920-1080",
+          "Memory": "Minimum 16GB RAM DDR5 Memory",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Power Supply": "Type C, 65W",
+          "Battery Life": "Minimum 10 Hours",
+          "Ports": "Minimum 2 USB 3.0; 1 Type C; 65HDMI; 1 headphone/microphone combo",
+          "Storage": "256 GB NVMe SSD",
+          "OS": "Windows 11 Pro",
+          "Warranty": "3-year minimum"
+        },
+        "Student Tablet": {
+          "Processor": "A13",
+          "Display": "10.2\" Retina, Multi-touch",
+          "Camera": "8MP Wide camera",
+          "Resolution": "2160 x 1620",
+          "Wireless": "802.11AC and Bluetooth 4.2",
+          "Power Supply": "included",
+          "Battery Life": "Minimum 10 Hours",
+          "Ports": "1 headphone or other personal audio connection",
+          "Storage": "64 GB",
+          "OS": "iOS 17",
+          "Warranty": "1-year minimum"
+        }
+      },
+      "Staff Devices": {
+        "Tier 1 Staff Windows Basic Desktop": {
+          "Processor": "Intel i5 Processor, 14th Gen or equivalent",
+          "Display": "Minimum 23.8\" diagonal screen Touch Screen",
+          "Memory": "Minimum 16GB RAM",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Ports": "Minimum 3 USB 3.0; 2 USB-C1 HDMI; 1 headphone/microphone combo",
+          "Storage": "512 GB NVMe SSD",
+          "OS": "Windows 11 Pro",
+          "Warranty": "3-year minimum"
+        },
+        "Tier 2 Staff Professional Desktop": {
+          "Processor": "Intel i7 Processor, 14th Gen or equivalent",
+          "Display": "Minimum 23.8\" diagonal screen Touch Screen",
+          "Memory": "Minimum 32GB DDR5 RAM",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Ports": "Minimum 3 USB 3.0; 1 USB-C, 1 HDMI; 1 headphone/microphone combo",
+          "Storage": "1 TB NVMe SSD",
+          "OS": "Windows 11 Pro or Mac O/S",
+          "Video Card": "4 GB",
+          "Warranty": "3-year minimum"
+        },
+        "Tier 1 Staff Basic Laptop": {
+          "Processor": "Intel i5 CPU, 14th Gen or equivalent",
+          "Display": "Minimum 13\" diagonal screen",
+          "Camera": "1080p",
+          "Memory": "Minimum 16GB DDR5 RAM",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Power Supply": "USB Type C, 65W",
+          "Battery Life": "Minimum 10 hours",
+          "Ports": "Minimum 1 USB 3.0;1 USB-C, 1 HDMI; 1 headphone/microphone combo",
+          "Storage": "512 GB NVMe SSD",
+          "OS": "Windows 11 or Mac OS",
+          "Warranty": "3-year minimum"
+        },
+        "Tier 2 Staff Laptop": {
+          "Processor": "Intel i7 CPU, 14th Gen or equivalent",
+          "Display": "Minimum 13\" diagonal screen",
+          "Camera": "1080p",
+          "Resolution": "1920 X 1080 minimum",
+          "Memory": "Minimum 32GB DDR5 RAM",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Power Supply": "USB C, 65W",
+          "Battery Life": "Minimum 10 hours",
+          "Ports": "Minimum 2 USB 3.0; 1 HDMI; 1 headphone/microphone combo",
+          "Storage": "1 TB NVMe SSD",
+          "OS": "Windows 11 or Mac OS",
+          "Warranty": "3-year minimum"
+        }
+      },
+      "Display Monitor - Touch": {
+        "Size": "Minimum 24\" diagonal screen",
+        "Resolution": "1920 X 1080",
+        "Port": "USB 3.1 Hub",
+        "Aspect Ratio": "16:9",
+        "Contrast": "3000:1",
+        "Warranty": "3-year minimum"
+      },
+      "Display Monitor - Non-Touch": {
+        "Size": "Minimum 24\" diagonal screen",
+        "Resolution": "1920 X 1080",
+        "Port": "USB 3.1 Hub",
+        "Warranty": "3-year minimum"
+      }
+    }
+  }
+}
+```
+
+File name:Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html
+
+Enter the path to the RFP file (PDF or HTML): /Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html
+Raw response from Gemini API: ```json
+{
+  "Fields": {
+    "Bid Number": "JA-207652",
+    "Title": "Student and Staff Computing Devices **SOURCING #168884**",
+    "Due Date": "07/09/2024 03:00 PM EDT",
+    "Bid Submission Type": "RFP - Request for Proposal (Informal)",
+    "Term of Bid": "five years",
+    "Pre Bid Meeting": "06/10/2024 03:00 PM EDT",
+    "Installation": null,
+    "Bid Bond Requirement": null,
+    "Delivery Date": null,
+    "Payment Terms": null,
+    "Any Additional Documentation Required": null,
+    "MFG for Registration": null,
+    "Contract or Cooperative to use": null,
+    "Model_no": null,
+    "Part_no": null,
+    "Product": "laptops, desktops, tablet devices, and display monitors",
+    "Contact Info": "972-925-3700\nProcurementCS@dallasisd.org",
+    "Company Name": "Dallas Independent School District",
+    "Bid Summary": "This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may submit proposals for one, several, or all categories of devices required by the District. Within each category of device, the District reserves the right to award contracts to a single vendor or multiple vendors. The specifications listed in this RFP are the minimum hardware requirements for each tier of device required by Dallas ISD. Vendors responding to this RFP must have the ability to provide the District with significant quantities of devices as requested in the pricing lines in this RFP. Note that quantities requested by Dallas ISD are estimates to be ordered over the five years of the contracts resulting from this RFP. Purchases may also include a variety of device accessories which will be ordered in a bundle along with the devices. Such accessories include, but are not limited to, sleeves, cases, mice, keyboards, and cables that may not necessarily come with the devices.",
+    "Product Specification": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may submit proposals for one, several, or all categories of devices required by the District. Within each category of device, the District reserves the right to award contracts to a single vendor or multiple vendors. The specifications listed in this RFP are the minimum hardware requirements for each tier of device required by Dallas ISD. Vendors responding to this RFP must have the ability to provide the District with significant quantities of devices as requested in the pricing lines in this RFP. Note that quantities requested by Dallas ISD are estimates to be ordered over the five years of the contracts resulting from this RFP. Purchases may also include a variety of device accessories which will be ordered in a bundle along with the devices. Such accessories include, but are not limited to, sleeves, cases, mice, keyboards, and cables that may not necessarily come with the devices."
+  }
+}
+```

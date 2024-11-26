@@ -1,0 +1,152 @@
+BID 2:
+
+File name:Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html
+
+Enter the path to the RFP file (PDF or HTML): /Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html
+Raw response from Gemini API: ```json
+{
+  "Fields": {
+    "Bid Number": "BPM044557",
+    "Title": "Dell Laptops w/Extended Warranty",
+    "Due Date": "06/10/2024 02:00 PM EDT",
+    "Bid Submission Type": "RFP - Request for Proposal (Informal)",
+    "Term of Bid": null,
+    "Pre Bid Meeting": null,
+    "Installation": null,
+    "Bid Bond Requirement": null,
+    "Delivery Date": null,
+    "Payment Terms": null,
+    "Any Additional Documentation Required": null,
+    "MFG for Registration": null,
+    "Contract or Cooperative to use": null,
+    "Model_no": "Latitude 5550, WD22TB4",
+    "Part_no": "CC7802",
+    "Product": "Dell Latitude 5550 Laptops, Dell Thunderbolt 4 Dock – WD22TB4",
+    "Contact Info": "Tamaira Hawkins\n410-260-7533\nThawkins@treasurer.state.md.us",
+    "Company Name": "State of Maryland Treasurer's Office",
+    "Bid Summary": "1. SI# CC7802 Dell Latitude 5550 SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready* SI# CC7802 30 06/10/2024 2. Dell Thunderbolt 4 Dock – WD22TB4 Dell Thunderbolt 4 Dock – WD22TB4 WD22TB4 30 06/10/2024",
+    "Product Specification": "1. SI# CC7802 Dell Latitude 5550 Laptops must be Microsoft Copilot ready\n2. Dell Thunderbolt 4 Dock – WD22TB4"
+  }
+}
+```
+
+File name:Dell_Laptop_Specs.pdf
+
+
+Enter the path to the RFP file (PDF or HTML): /Dell_Laptop_Specs.pdf
+Raw response from Gemini API: ```json
+{
+  "Fields": {
+    "Bid Number": "CC7802",
+    "Title": "Dell Latitude 5550",
+    "Due Date": null,
+    "Bid Submission Type": null,
+    "Term of Bid": "thirty days from the date of this Quote",
+    "Pre Bid Meeting": null,
+    "Installation": null,
+    "Bid Bond Requirement": null,
+    "Delivery Date": null,
+    "Payment Terms": null,
+    "Any Additional Documentation Required": null,
+    "MFG for Registration": null,
+    "Contract or Cooperative to use": null,
+    "Model_no": "5550",
+    "Part_no": null,
+    "Product": "Dell Latitude 5550",
+    "Contact Info": null,
+    "Company Name": "Dell",
+    "Bid Summary": "This quote provides pricing for a Dell Latitude 5550 laptop with specific components including Intel Core Ultra 5 125U processor, Windows 11 Pro, 16GB DDR5 RAM, 256GB NVMe SSD, 15.6\" FHD display, and other specified features.  The quote includes terms of sale, governing terms, software license information, and other legal considerations.",
+    "Product Specification": "Intel Core Ultra 5 125U processor (12 MB cache, 12 cores, 14 threads, up to 4.3 GHz Turbo)\nWindows 11 Pro, English, Brazilian Portuguese PT-BR, French, Spanish\n16 GB: 2 x 8 GB, DDR5, 5600 MT/s RAM\n256 GB, M.2 2230, TLC, Gen 4 PCIe NVMe, SSD\n15.6\", FHD 1920x1080, 60Hz, IPS, Non-Touch, AG, 250 nit, 45% NTSC, FHD Cam\nEnglish US backlit AI hotkey keyboard with numeric keypad, 99-key\nIntel AX211 WLAN Driver, Intel Wi-Fi 6E, Bluetooth 5.3\n3-cell, 54 Wh battery, ExpressCharge Capable\n65W AC adapter, USB Type-C\nENERGY STAR Qualified\nEPEAT 2018 Registered (Gold)"
+  }
+}
+```
+
+File name:Mercury_Affidavit.pdf
+
+Enter the path to the RFP file (PDF or HTML): /Mercury_Affidavit.pdf
+Raw response from Gemini API: {
+  "Fields": {
+    "Bid Number": null,
+    "Title": null,
+    "Due Date": null,
+    "Bid Submission Type": null,
+    "Term of Bid": null,
+    "Pre Bid Meeting": null,
+    "Installation": null,
+    "Bid Bond Requirement": null,
+    "Delivery Date": null,
+    "Payment Terms": null,
+    "Any Additional Documentation Required": null,
+    "MFG for Registration": null,
+    "Contract or Cooperative to use": null,
+    "Model_no": null,
+    "Part_no": null,
+    "Product": null,
+    "Contact Info": null,
+    "Company Name": null,
+    "Bid Summary": null,
+    "Product Specification": null
+  }
+}
+
+
+File name:PORFP_-_Dell_Laptop_Final.pdf
+
+
+Enter the path to the RFP file (PDF or HTML): /PORFP_-_Dell_Laptop_Final.pdf
+Raw response from Gemini API: ```json
+{
+  "Fields": {
+    "Bid Number": "#E20P4600040",
+    "Title": "Purchase Order Request for Proposals (PORFP) Hardware Master Contract",
+    "Due Date": "06/10/2024",
+    "Bid Submission Type": "eMaryland Marketplace Advantage (eMMA) e-Procurement system",
+    "Term of Bid": "90 days after the set due date",
+    "Pre Bid Meeting": null,
+    "Installation": null,
+    "Bid Bond Requirement": null,
+    "Delivery Date": "06/10/2024",
+    "Payment Terms": "Email invoices to: STOaccountspayable@treasurer.state.md.us. Invoice(s) shall be submitted within 10 days of delivering the equipment",
+    "Any Additional Documentation Required": "Letter of Authorization (LOA) from the Manufacturer or Distributor, Mercury Affidavit",
+    "MFG for Registration": "Dell",
+    "Contract or Cooperative to use": "Desktop, Laptop and Tablet 2015 Master Contract, 060B5400007",
+    "Model_no": "SI# CC7802, WD22TB4",
+    "Part_no": null,
+    "Product": "Dell Latitude 5550, Dell Thunderbolt 4 Dock – WD22TB4",
+    "Contact Info": "Tamaira Hawkins, thawkins@treasurer.state.md.us, 410-260-7533",
+    "Company Name": "Dell",
+    "Bid Summary": "This PORFP is for a refresh of laptops to accommodate MD529 employees.  It includes two functional areas: FA I (Printers and Associated Peripherals) and FA V (Manufacturer’s Extended Warranty).  The state requires 30 Dell Latitude 5550 laptops and 30 Dell Thunderbolt 4 Docks – WD22TB4.  A 3-year extended warranty is also required for all purchased machines.",
+    "Product Specification": "FA I - Printers and Associated Peripherals:\nProduct Name\tProduct Description\tModel #\tQty\tDue Date\n1. SI# CC7802 Dell Latitude 5550\tDell Latitude 5550\tSI# CC7802\t30\t06/10/2024\n2. Dell Thunderbolt 4 Dock – WD22TB4\tDell Thunderbolt 4 Dock – WD22TB4\tWD22TB4\t30\t06/10/2024\n*Laptops must be Microsoft Copilot ready*\n\nFA V - Manufacturer’s Extended Warranty:\nWarranty Requirements\tDeliverables\tStart Date\tEnd Date\n1. Dell Limited Hardware Warranty Extended for all machines purchased - 3 Years\tWarranty certificate or Affidavit\tDate of Delivery\t3 years following the date of delivery"
+  }
+}
+```
+
+File name:Contract_Affidavit.pdf
+
+Enter the path to the RFP file (PDF or HTML): /Contract_Affidavit.pdf
+Raw response from Gemini API: ```json
+{
+  "Fields": {
+    "Bid Number": null,
+    "Title": null,
+    "Due Date": null,
+    "Bid Submission Type": null,
+    "Term of Bid": null,
+    "Pre Bid Meeting": null,
+    "Installation": null,
+    "Bid Bond Requirement": null,
+    "Delivery Date": null,
+    "Payment Terms": null,
+    "Any Additional Documentation Required": null,
+    "MFG for Registration": null,
+    "Contract or Cooperative to use": null,
+    "Model_no": null,
+    "Part_no": null,
+    "Product": null,
+    "Contact Info": null,
+    "Company Name": null,
+    "Bid Summary": null,
+    "Product Specification": null
+  }
+}
+```
