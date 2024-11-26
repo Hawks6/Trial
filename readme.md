@@ -46,7 +46,7 @@ This project automates the extraction and structuring of key information based o
 
 ---
 ## Outputs
-- The requsted outputs are clubbed together for each bid folder into a json file, json file "BID 1.txt" contains output for each file provided in the "bid 1" folder. As requested for each file the output is in json format. But that is not exactly how the output from the program looks like, I'll provide a sample output as it is for RFP you have provided.
+- The requsted outputs are clubbed together for each bid folder into a json file, json file "BID 1.txt" contains output for each file provided in the "bid 1" folder. As requested for each file the output is in json format. But that is not exactly how the output from the program looks like, I'll provide a sample output as it is for a RFP you have provided.
 
 ### Sample Output
  ```
