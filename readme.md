@@ -46,4 +46,4 @@ This project automates the extraction and structuring of key information based o
 
 ---
 ## Outputs
-- The requsted output are clubbed together for each bid folder into a text file, the text file includes output from each file, I have provided the file name before each output. As requested for each file the output is in json format
+- The requsted outputs are clubbed together for each bid folder into a text file, text file "BID 1.txt" contains output for each file provided in the "bid 1" folder, I have provided the file name before each output. As requested for each file the output is in json format
