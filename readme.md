@@ -45,3 +45,5 @@ This project automates the extraction and structuring of key information based o
 - A valid RFP file in either **PDF** or **HTML** format.
 
 ---
+## Outputs
+- The requsted output are clubbed together for each bid folder into a text file, the text file includes output from each file, I have provided the file name before each output. As requested for each file the output is in json format
