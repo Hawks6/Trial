@@ -46,4 +46,32 @@ This project automates the extraction and structuring of key information based o
 
 ---
 ## Outputs
-- The requsted outputs are clubbed together for each bid folder into a text file, text file "BID 1.txt" contains output for each file provided in the "bid 1" folder, I have provided the file name before each output. As requested for each file the output is in json format.
+- The requsted outputs are clubbed together for each bid folder into a json file, json file "BID 1.txt" contains output for each file provided in the "bid 1" folder. As requested for each file the output is in json format. But that is not exactly how the output from the program looks like, I'll provide a sample output as it is for RFP you have provided.
+- #Sample Output
+- ```Enter the path to the RFP file (PDF or HTML): /Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf
+Raw response from Gemini API: {
+  "FileName": "ADDENDUM No. 2",
+  "Fields": {
+    "Bid Number": "JA-207652",
+    "Title": "Student and Staff Computing Devices",
+    "Due Date": "July 9, 2024 at 2:00 PM CST",
+    "Bid Submission Type": null,
+    "Term of Bid": null,
+    "Pre Bid Meeting": null,
+    "Installation": null,
+    "Bid Bond Requirement": null,
+    "Delivery Date": null,
+    "Payment Terms": null,
+    "Any Additional Documentation Required": "Signed copy of this addendum",
+    "MFG for Registration": null,
+    "Contract or Cooperative to use": null,
+    "Model_no": null,
+    "Part_no": null,
+    "Product": "Computing Devices",
+    "Contact Info": null,
+    "Company Name": null,
+    "Bid Summary": null,
+    "Product Specification": null
+  }
+}
+```
